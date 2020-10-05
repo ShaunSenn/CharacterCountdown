@@ -1,0 +1,22 @@
+{
+  "name": "13eventhandlerintofunction",
+  "version": "0.1.0",
+  "description": "character countdown function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaunSenn/CharacterCountdown.git"
+  },
+  "author": "Shaun Senn <shaunsenn2019@gmail.com> (https://github.com/ShaunSenn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShaunSenn/CharacterCountdown/issues"
+  },
+  "homepage": "https://github.com/ShaunSenn/CharacterCountdown#readme",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
